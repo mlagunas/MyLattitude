@@ -1,2 +1,4 @@
+You should import the library ojdbc14.jar, if not the application wont work.
+
 username: a504185
 passwd: Ora123
