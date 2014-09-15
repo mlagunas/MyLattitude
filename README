@@ -1,0 +1,2 @@
+javac -d bin -cp bin src/*.java
+java -cp "bin:/home/manu/Documents/practicasTP/MyLatitude/ojdbc14.jar" Main
